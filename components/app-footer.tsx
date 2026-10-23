@@ -9,10 +9,10 @@ export function AppFooter() {
       <div className="mx-auto flex max-w-6xl flex-col gap-3 px-4 py-8 text-sm text-muted-foreground sm:px-6 md:flex-row md:items-center md:justify-between">
         <div className="flex flex-col gap-1">
           <p className="font-medium text-navy">
-            AzurePath AI — Built for the #1MillionDevs Vibe Coding Hackathon 2026.
+            AzurePath  — Built for the #1MillionDevs Vibe Coding Hackathon 2026.
           </p>
           <p>
-            AzurePath AI is an unofficial learning tool and is not affiliated with or endorsed by
+            AzurePath  is an unofficial learning tool and is not affiliated with or endorsed by
             Microsoft.
           </p>
         </div>

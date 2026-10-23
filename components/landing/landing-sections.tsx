@@ -58,7 +58,7 @@ export function ValueSection() {
   return (
     <section aria-labelledby="value-heading" className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
       <h2 id="value-heading" className="sr-only">
-        Why AzurePath AI
+        Why AzurePath 
       </h2>
       <div className="grid gap-4 md:grid-cols-3">
         {FEATURES.map((f) => (

@@ -38,7 +38,7 @@ export function AppHeader() {
         <Link
           href="/"
           className="flex items-center gap-2.5 rounded-lg focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-ring"
-          aria-label="AzurePath AI home"
+          aria-label="AzurePath  home"
         >
           <LogoMark />
           <span className="text-base font-semibold tracking-tight text-navy">

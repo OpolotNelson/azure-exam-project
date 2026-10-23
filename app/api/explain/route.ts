@@ -7,7 +7,7 @@ export const maxDuration = 30
 
 const MODEL = process.env.AZUREPATH_AI_MODEL || 'openai/gpt-5.4-mini'
 
-const SYSTEM_PROMPT = `You are AzurePath AI, a friendly and knowledgeable Microsoft Azure Fundamentals (AZ-900) learning coach.
+const SYSTEM_PROMPT = `You are AzurePath , a friendly and knowledgeable Microsoft Azure Fundamentals (AZ-900) learning coach.
 
 Your job is to help beginners understand Microsoft Azure concepts deeply rather than memorize practice answers.
 

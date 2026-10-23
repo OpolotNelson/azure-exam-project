@@ -10,8 +10,8 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 
 export const metadata: Metadata = {
   title: {
-    default: 'AzurePath AI — Smart AZ-900 Practice',
-    template: '%s · AzurePath AI',
+    default: 'AzurePath  — Smart AZ-900 Practice',
+    template: '%s · AzurePath ',
   },
   description:
     "Don't just practice. Understand. Improve. Get Azure-ready. Smart AZ-900 quizzes with instant explanations, AI study help and a personalised learning report.",

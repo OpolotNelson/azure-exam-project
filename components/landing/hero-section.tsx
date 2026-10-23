@@ -56,7 +56,7 @@ export function HeroSection() {
 
 function ProductPreview() {
   return (
-    <figure className="relative mx-auto w-full max-w-lg" aria-label="Preview of an AzurePath AI practice question with feedback">
+    <figure className="relative mx-auto w-full max-w-lg" aria-label="Preview of an AzurePath  practice question with feedback">
       <div
         aria-hidden="true"
         className="absolute -inset-4 -z-10 rounded-[2rem] bg-gradient-to-br from-primary/15 via-cyan/10 to-transparent blur-2xl"
